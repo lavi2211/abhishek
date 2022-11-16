@@ -5,6 +5,7 @@ if(n<=0):
 else:
     print("mul table for{}".format(n))
     print("="*50)
+    print("="*50)
     for i in range(1,11):
         print("\t{}*{}={}".format(n,i,n*i))
     else:
